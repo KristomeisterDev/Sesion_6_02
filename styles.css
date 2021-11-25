@@ -1,0 +1,46 @@
+*{
+   margin: 0%; 
+}
+body{
+    min-height: 50vh;
+    display: flex; 
+}
+h1{
+    font-size: 3rem;
+    margin-bottom: 30px;
+    font-family: 'Khand', sans-serif;
+}
+p{
+    font-size: 1rem;
+}
+.button{
+    height: 48px;
+    border-radius: 48px;
+    background-color: white;
+    width: 200px;
+    border: none;
+    margin-top: 30%;
+    font-size: 18px;
+}
+.container{
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#contsedans{
+background-color:  #e2862d;
+}
+#contsuvs{
+background-color: #286873;
+}
+#contluxury{
+background-color: #17403e;
+}
+#btnsedans{
+color: #e2862d;
+}
+#btnsuvs{
+color: #286873;
+}
+#btnluxury{
+color: #17403e;
+}
